@@ -10,10 +10,10 @@
 
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biomanufacturing systems.
 
-🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
-🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
-🎯 **My Superpower:** Using **Soft Sensors** to predict trace components in water.
-🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
+* 🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
+* 🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
+* 🎯 **My Superpower:** Using **Soft Sensors** to predict trace components in water.
+* 🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
 ---
 
