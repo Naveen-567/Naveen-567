@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Kermit Typing Fast" />
+  <img src="https://i0.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/green-hills-header.jpg?fit=1584%2C396&ssl=1" width="400" alt="Kermit Typing Fast" />
   <h1>👋 Hi, I'm Naveen G. Jesubalan</h1>
   <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer</h3>
 </div>
