@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
-  <h1>👋 Hi Peeps, I'm Naveen G. Jesubalan</h1>
-  <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer (Not the runway kind 🧥)</h3>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW04ejA0MHp3ams1eHVhb2ZnNXJ4bm01bDhuMmJ1N2E5aG56eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVXR2EKO8lTmWr/giphy.gif" width="600" alt="Minimal Coding Header" />
+  <h1>👋 Hi, I'm Naveen G. Jesubalan</h1>
+  <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer</h3>
 </div>
 
 ---
@@ -10,9 +10,9 @@
 
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biology.
 
-* 🧪 **My Day Job:** I build **Digital Twins** (because one reality is just not enough) and develop **Cyber-Physical Systems**.
-* 🤖 **My Hobby:** Training **Q-learning agents** that are smarter than me and building **LLMs** that (hopefully) won't take over the world.
-* 🎯 **My Superpower:** Using **Soft Sensors** to predict things that are invisible to the naked eye.
+* 🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
+* 🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
+* 🎯 **My Superpower:** Using **Soft Sensors** to predict trace components in water.
 * 🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
 ---
@@ -20,9 +20,15 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 ### 📬 Slide into my DMs (Professionally)
 
 <p align="center">
-  <a href="mailto:naveengpjuly6@gmail.com"><img src="https://img.shields.io/badge/Email-Me_Maybe?-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://www.linkedin.com/in/naveen-gp/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://scholar.google.com/citations?user=bidAu0EAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-My_Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:naveengpjuly6@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/naveen-gp/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="YOUR_GOOGLE_SCHOLAR_LINK_HERE">
+    <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
+  </a>
 </p>
 
 ---
