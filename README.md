@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdW04ejA0MHp3ams1eHVhb2ZnNXJ4bm01bDhuMmJ1N2E5aG56eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1TVXR2EKO8lTmWr/giphy.gif" width="600" alt="Minimal Coding Header" />
+  <img src="https://user-images.githubusercontent.com/74038190/229373295-857c69d3-57c5-4424-8147-384351b68ce2.gif" width="600" alt="Minimal Workstation" />
   <h1>👋 Hi, I'm Naveen G. Jesubalan</h1>
   <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer</h3>
 </div>
@@ -10,10 +10,10 @@
 
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biology.
 
-* 🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
-* 🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
-* 🎯 **My Superpower:** Using **Soft Sensors** to predict trace components in water.
-* 🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
+🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
+🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
+🎯 **My Superpower:** Using **Soft Sensors** to predict trace components in water.
+🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
 ---
 
