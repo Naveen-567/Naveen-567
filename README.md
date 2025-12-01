@@ -41,3 +41,12 @@
 <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
 <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
+#### 🖥️ Operating Systems & Environments
+
+<p align="left">
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
+<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
+<img src="https://img.shields.io/badge/Cinnamon-DC682E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Cinnamon" />
+<img src="https://img.shields.io/badge/GNOME-46a4da?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
+</p>
