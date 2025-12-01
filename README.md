@@ -1,12 +1,12 @@
 ## Hi there 👋, I'm Naveen G. Jesubalan 👨‍🔬
 
-[cite_start]🚀 Currently, I'm a **PhD candidate at Indian Institute of Technology Delhi**[cite: 6].
+🚀 Currently, I'm a **PhD candidate at Indian Institute of Technology Delhi**.
 
-[cite_start]👨‍🔬 I work on diverse research projects, including **multi-variate model development, large language models (LLM) development, process modeling, model predictive control, digital twin development, and cyber-physical system development and implementation**[cite: 6].
+👨‍🔬 I work on diverse research projects, including **multi-variate model development, large language models (LLM) development, process modeling, model predictive control, digital twin development, and cyber-physical system development and implementation**.
 
-[cite_start]🔬 My work revolves around harnessing the potential of artificial intelligence and machine learning in **bioprocessing, process optimization, and developing advanced control strategies like Q-learning agents**[cite: 6].
+🔬 My work revolves around harnessing the potential of artificial intelligence and machine learning in **bioprocessing, process optimization, and developing advanced control strategies like Q-learning agents**.
 
-[cite_start]📫 How to reach me **naveengpjuly6@gmail.com** and **srz218570@iitd.ac.in** [cite: 1, 5]
+📫 How to reach me **naveengpjuly6@gmail.com** and **srz218570@iitd.ac.in**
 
 <p align="left">
 <a href="https://www.linkedin.com/in/naveen-gp/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="naveen-gp" /></a>
