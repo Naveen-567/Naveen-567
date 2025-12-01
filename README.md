@@ -26,7 +26,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
   <a href="https://www.linkedin.com/in/naveen-gp/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="YOUR_GOOGLE_SCHOLAR_LINK_HERE">
+  <a href="https://scholar.google.com/citations?user=bidAu0EAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
 </p>
