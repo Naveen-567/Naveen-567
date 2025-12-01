@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229373295-857c69d3-57c5-4424-8147-384351b68ce2.gif" width="600" alt="Minimal Workstation" />
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="Kermit Typing Fast" />
   <h1>👋 Hi, I'm Naveen G. Jesubalan</h1>
   <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer</h3>
 </div>
@@ -8,7 +8,7 @@
 
 ### 🧐 About Me (The "TL;DR")
 
-I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biology.
+I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biomanufacturing systems.
 
 🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
 🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
