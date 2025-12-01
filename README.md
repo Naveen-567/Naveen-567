@@ -22,7 +22,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <p align="center">
   <a href="mailto:naveengpjuly6@gmail.com"><img src="https://img.shields.io/badge/Email-Me_Maybe?-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   <a href="https://www.linkedin.com/in/naveen-gp/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="(https://scholar.google.com/citations?user=bidAu0EAAAAJ&hl=en)"><img src="https://img.shields.io/badge/Google_Scholar-My_Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="https://scholar.google.com/citations?user=bidAu0EAAAAJ&hl=en"><img src="https://img.shields.io/badge/Google_Scholar-My_Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
 ---
