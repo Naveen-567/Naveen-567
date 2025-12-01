@@ -1,21 +1,36 @@
-## Hi Peeps 👋, I'm Naveen G. Jesubalan 👨‍🔬
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding Gif" />
+  <h1>👋 Hi Peeps, I'm Naveen G. Jesubalan</h1>
+  <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer (Not the runway kind 🧥)</h3>
+</div>
 
-🚀 Currently, I'm a **PhD candidate at Indian Institute of Technology Delhi**.
+---
 
-👨‍🔬 I work on diverse research projects, including **multi-variate model development, large language models (LLM) development, process modeling, model predictive control, digital twin development, and cyber-physical system development and implementation**.
+### 🧐 About Me (The "TL;DR")
 
-🔬 My work revolves around harnessing the potential of artificial intelligence and machine learning in **bioprocessing, process optimization, and developing advanced control strategies like Q-learning agents**.
+I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biology.
 
-📫 How to reach me **naveengpjuly6@gmail.com** and **srz218570@iitd.ac.in**
+* 🧪 **My Day Job:** I build **Digital Twins** (because one reality is just not enough) and develop **Cyber-Physical Systems**.
+* 🤖 **My Hobby:** Training **Q-learning agents** that are smarter than me and building **LLMs** that (hopefully) won't take over the world.
+* 🎯 **My Superpower:** Using **Soft Sensors** to predict things that are invisible to the naked eye.
+* 🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
-<p align="left">
-<a href="https://www.linkedin.com/in/naveen-gp/" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="naveen-gp" /></a>
-<a href="https://scholar.google.com/citations?user=bidAu0EAAAAJ&hl=en" target="blank"><img align="center" src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
+---
+
+### 📬 Slide into my DMs (Professionally)
+
+<p align="center">
+  <a href="mailto:naveengpjuly6@gmail.com"><img src="https://img.shields.io/badge/Email-Me_Maybe?-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/naveen-gp/"><img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="YOUR_GOOGLE_SCHOLAR_LINK_HERE"><img src="https://img.shields.io/badge/Google_Scholar-My_Papers-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" /></a>
 </p>
 
-### 🔨 Languages and Tools:
+---
 
-#### 🤖 Artificial Intelligence & Machine Learning
+### 🛠️ The Toolkit (How I Make Magic Happen)
+
+#### 🧠 The Brains (AI & Machine Learning)
+*"I teach rocks how to think."*
 
 <p align="left">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -24,7 +39,7 @@
 <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
 </p>
 
-#### ☁️ Cloud
+#### ☁️ The Cloud (Someone Else's Computer)
 
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -32,7 +47,7 @@
 <img src="https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
-#### 💻 Languages & Frameworks
+#### 🗣️ Languages I Speak (Fluently)
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -42,13 +57,20 @@
 <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-#### 🖥️ Operating Systems & Environments
+#### 💻 Where I Live (Distro Hopping & Window Shopping)
+*"I use Arch btw... and everything else."*
 
 <p align="left">
-<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+<img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-<img src="https://img.shields.io/badge/Cinnamon-DC682E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Cinnamon" />
-<img src="https://img.shields.io/badge/GNOME-46a4da?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
 <img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE" />
+<img src="https://img.shields.io/badge/GNOME-46a4da?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
+<img src="https://img.shields.io/badge/Cinnamon-DC682E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Cinnamon" />
 </p>
+
+---
+
+<div align="center">
+  <i>"It works on my machine." - Famous Last Words</i>
+</div>
