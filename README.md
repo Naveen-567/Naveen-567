@@ -1,4 +1,4 @@
-## Hi there 👋, I'm Naveen G. Jesubalan 👨‍🔬
+## Hi Peeps 👋, I'm Naveen G. Jesubalan 👨‍🔬
 
 🚀 Currently, I'm a **PhD candidate at Indian Institute of Technology Delhi**.
 
