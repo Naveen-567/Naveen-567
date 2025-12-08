@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i0.wp.com/linkedinheaders.com/wp-content/uploads/2018/02/green-hills-header.jpg?fit=1584%2C396&ssl=1" width="400" alt="Kermit Typing Fast" />
-  <h1>👋 Hi, I'm Naveen G. Jesubalan</h1>
+  <h1>👋 Hi, I'm Naveen Jesubalan</h1>
   <h3>PhD Candidate @ IIT Delhi | Data Alchemist | Professional Model Trainer</h3>
 </div>
 
@@ -11,8 +11,8 @@
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biomanufacturing systems.
 
 * 🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
-* 🤖 **My Hobby:** Training **Q-learning agents** and building **LLMs** for experimental retrieval.
-* 🎯 **My Superpower:** Using **Soft Sensors** to predict trace components in water.
+* 🤖 **My Hobby:** Training **Q-learning agents** and building **Controllers**.
+* 🎯 **My Superpower:** Developing **Soft Sensors**.
 * 🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
 ---
