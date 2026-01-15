@@ -6,13 +6,13 @@
 
 ---
 
-### 🧐 About Me (The "TL;DR")
+### About Me (The "TL;DR")
 
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biomanufacturing systems.
 
 * **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
-*                 Building **Controllers**.
-*                 Developing **Soft Sensors**.
+                  Building **Controllers**.
+                  Developing **Soft Sensors**.
 * **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
 ---
