@@ -10,10 +10,10 @@
 
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biomanufacturing systems.
 
-* 🧪 **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
-* 🤖 **My Hobby:** Training **Q-learning agents** and building **Controllers**.
-* 🎯 **My Superpower:** Developing **Soft Sensors**.
-* 🐛 **Current Status:** Debugging code that worked perfectly 5 minutes ago.
+* **My Day Job:** I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
+*                 Building **Controllers**.
+*                 Developing **Soft Sensors**.
+* **Current Status:** Debugging code that worked perfectly 5 minutes ago.
 
 ---
 
@@ -33,9 +33,9 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 
 ---
 
-### 🛠️ The Toolkit (How I Make Magic Happen)
+### How I Make Magic Happen
 
-#### 🧠 The Brains (AI & Machine Learning)
+#### The Brains (AI & Machine Learning)
 *"I teach rocks how to think."*
 
 <p align="left">
@@ -45,7 +45,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
 </p>
 
-#### ☁️ The Cloud (Someone Else's Computer)
+#### Cloud (Someone Else's Computer)
 
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -53,7 +53,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <img src="https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
-#### 🗣️ Languages I Speak (Fluently)
+#### Languages I Speak (Fluently)
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -63,8 +63,8 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-#### 💻 Where I Live (Distro Hopping & Window Shopping)
-*"I use Arch btw... and everything else."*
+#### 💻 Where I Live
+*"I used to use Arch btw... and everything else."*
 
 <p align="left">
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
