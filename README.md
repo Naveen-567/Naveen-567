@@ -78,10 +78,8 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 #### Operating systems
 
 <p align="left">
-<img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
 <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" alt="macOS" />
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows" />
-<img src="https://img.shields.io/badge/KDE_Plasma-1D99F3?style=for-the-badge&logo=kde&logoColor=white" alt="KDE" />
 <img src="https://img.shields.io/badge/GNOME-46a4da?style=for-the-badge&logo=gnome&logoColor=white" alt="GNOME" />
 <img src="https://img.shields.io/badge/Cinnamon-DC682E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Cinnamon" />
 </p>
