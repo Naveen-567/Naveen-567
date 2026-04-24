@@ -14,7 +14,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 
 ---
 
-### Slide into my DMs (Professionally)
+### Slide into my DMs
 
 <p align="center">
   <a href="mailto:naveengpjuly6@gmail.com">
