@@ -32,6 +32,16 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 
 ### Tech skills
 
+#### Process modeling
+
+<p align="left">
+<img src="https://img.shields.io/badge/CADET-%23005A9C.svg?style=for-the-badge&logo=python&logoColor=white" alt="CADET" />
+<img src="https://img.shields.io/badge/SciPy-%238CAAE6.svg?style=for-the-badge&logo=scipy&logoColor=white" alt="SciPy" />
+<img src="https://img.shields.io/badge/SymPy-%233B5526.svg?style=for-the-badge&logo=python&logoColor=white" alt="SymPy" />
+<img src="https://img.shields.io/badge/Chromatography-black.svg?style=for-the-badge&logo=precision-precision&logoColor=white" alt="Chromatography" />
+<img src="https://img.shields.io/badge/Membrane%20Operations-grey.svg?style=for-the-badge&logo=target&logoColor=white" alt="Membrane Operations" />
+</p>
+
 #### AI & Machine Learning
 
 <p align="left">
