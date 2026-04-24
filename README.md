@@ -6,7 +6,7 @@
 
 ---
 
-### About Me (The "TL;DR")
+### About Me
 
 I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where I spend most of my time convincing computers to understand biomanufacturing systems. I build **Digital Twins** and develop **Cyber-Physical Systems** for bioprocessing.
                   Building **Controllers**.
