@@ -26,6 +26,9 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
   <a href="https://scholar.google.com/citations?user=bidAu0EAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar" />
   </a>
+  <a href="https://bsky.app/profile/naveen-567.bsky.social">
+    <img src="https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white" alt="Bluesky" />
+  </a>
 </p>
 
 ---
