@@ -30,10 +30,9 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 
 ---
 
-### How I Make Magic Happen
+### Tech skills
 
-#### The Brains (AI & Machine Learning)
-*"I teach rocks how to think."*
+#### AI & Machine Learning
 
 <p align="left">
 <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="PyTorch" />
@@ -42,7 +41,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <img src="https://img.shields.io/badge/OpenCV-%23white.svg?style=for-the-badge&logo=opencv&logoColor=black" alt="OpenCV" />
 </p>
 
-#### Cloud (Someone Else's Computer)
+#### Cloud
 
 <p align="left">
 <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS" />
@@ -50,7 +49,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <img src="https://img.shields.io/badge/Microsoft_Azure-%230089D6.svg?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Microsoft Azure" />
 </p>
 
-#### Languages I Speak (Fluently)
+#### Languages
 
 <p align="left">
 <img src="https://img.shields.io/badge/Python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -60,8 +59,7 @@ I am a **PhD Candidate** at the **Indian Institute of Technology, Delhi**, where
 <img src="https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white" alt="LaTeX" />
 </p>
 
-#### Where I Live
-*"I used to use Arch btw... and everything else."*
+#### Operating systems
 
 <p align="left">
 <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
